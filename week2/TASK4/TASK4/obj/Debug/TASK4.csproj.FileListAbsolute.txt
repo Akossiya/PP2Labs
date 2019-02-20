@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\PP2Labs\week2\TASK4\TASK4\bin\Debug\TASK4.exe.config
+C:\Users\User\Desktop\PP2Labs\week2\TASK4\TASK4\bin\Debug\TASK4.exe
+C:\Users\User\Desktop\PP2Labs\week2\TASK4\TASK4\bin\Debug\TASK4.pdb
+C:\Users\User\Desktop\PP2Labs\week2\TASK4\TASK4\obj\Debug\TASK4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PP2Labs\week2\TASK4\TASK4\obj\Debug\TASK4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PP2Labs\week2\TASK4\TASK4\obj\Debug\TASK4.exe
+C:\Users\User\Desktop\PP2Labs\week2\TASK4\TASK4\obj\Debug\TASK4.pdb
