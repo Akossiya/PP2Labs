@@ -1,0 +1,14 @@
+D:\Bernur\dotnet\FarManager\FarManager\bin\Debug\FarManager.exe.config
+D:\Bernur\dotnet\FarManager\FarManager\bin\Debug\FarManager.exe
+D:\Bernur\dotnet\FarManager\FarManager\bin\Debug\FarManager.pdb
+D:\Bernur\dotnet\FarManager\FarManager\obj\Debug\FarManager.csprojAssemblyReference.cache
+D:\Bernur\dotnet\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+D:\Bernur\dotnet\FarManager\FarManager\obj\Debug\FarManager.exe
+D:\Bernur\dotnet\FarManager\FarManager\obj\Debug\FarManager.pdb
+C:\Users\User\Desktop\PP2Labs\week3\FarManager\FarManager\bin\Debug\FarManager.exe.config
+C:\Users\User\Desktop\PP2Labs\week3\FarManager\FarManager\bin\Debug\FarManager.exe
+C:\Users\User\Desktop\PP2Labs\week3\FarManager\FarManager\bin\Debug\FarManager.pdb
+C:\Users\User\Desktop\PP2Labs\week3\FarManager\FarManager\obj\Debug\FarManager.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PP2Labs\week3\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PP2Labs\week3\FarManager\FarManager\obj\Debug\FarManager.exe
+C:\Users\User\Desktop\PP2Labs\week3\FarManager\FarManager\obj\Debug\FarManager.pdb
